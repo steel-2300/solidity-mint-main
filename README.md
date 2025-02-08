@@ -1,0 +1,2 @@
+# solidity-mint-main
+sol
